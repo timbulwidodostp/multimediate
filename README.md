@@ -1,6 +1,8 @@
 # multimediate
 Causal Mediation Analysis in Presence of Multiple Mediators Uncausally Related Use multimediate With (In) R Software
 
+https://www.youtube.com/watch?v=jSHe-kpLLic
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
